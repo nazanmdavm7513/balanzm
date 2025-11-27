@@ -143,3 +143,8 @@
 2025-10-28 08:12:14 [INFO] HTTP request: POST /api/login 401 Unauthorized (42ms)
 2025-10-28 08:12:15 [ERROR] Failed login attempt for user 'admin'
 2025-10-28 08:12:17 [INFO] HTTP request: GET /api/products 200 OK (28ms)
+2025-10-28 08:12:10 [INFO] HTTP request: GET /api/users 200 OK (35ms)
+2025-10-28 08:12:12 [WARN] High memory usage detected (78%)
+2025-10-28 08:12:14 [INFO] HTTP request: POST /api/login 401 Unauthorized (42ms)
+2025-10-28 08:12:15 [ERROR] Failed login attempt for user 'admin'
+2025-10-28 08:12:17 [INFO] HTTP request: GET /api/products 200 OK (28ms)
